@@ -1,2 +1,2 @@
-![NEPHTHYS logo](https://raw.githubusercontent.com/siric-osiris/OSIRIS/master/Nephthys.png)
+![NEPHTHYS logo](https://raw.githubusercontent.com/MathiasAntunes/NEPHTHYS/master/Nephthys.png)
 
